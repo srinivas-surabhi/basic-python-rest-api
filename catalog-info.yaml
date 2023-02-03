@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: basic-python-rest-api
+  annotations:
+    github.com/project-slug: srinivas-surabhi/basic-python-rest-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
